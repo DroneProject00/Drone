@@ -3,24 +3,14 @@
 
 ### Durante questa esperienza cercheremo di capire come è fatto un drone e come assemblarlo. Per fare ciò abbiamo creato 3 gruppi:  nel nostro gruppo siamo 13 ragazzi , 7 alunni della classe di automazione e 5 della classe di elettronica.
 
+### Questi siamo noi poco prima di iniziare il primo vero giorno di lavoro.
+
+![foto da fabio spinelli](https://cloud.githubusercontent.com/assets/25582920/22729449/120326ba-ede3-11e6-807d-0c6e17827b5c.jpg)
+
+
 # **QUESTO E' TUTTO IL LAVORO EFFETTUATO DURANTE LA PRIMA PARTE DELLA PRIMA SETTIMANA**
 
-# I surfatori hanno stilato questa lista di fonti e l'hanno valutata :
----
-## [Canale youtube : Nine](https://www.youtube.com/channel/UCHTFsFGSLXpgptrQfV-3-Kw )
-
-Questo è un canale Youtube  che tratta unicamente droni da corsa.
-I generi di video che porta sono vari,partono da video panoramici a veri filmati da corsa.
-## Voto: 7
----
-
-
-## [Canale youtube: Joshua Bardwell](https://www.youtube.com/user/loraan)
-
-Questo è un canale Youtube,che come il precedente,tratta solo unicamente droni da corsa
-ma con la differenza che  ha caricato anche video  tutorial su come effettuare e imparare
-a pilotare un drone.
-## Voto: 8
+# I surfatori hanno stilato questa lista delle migliori 3 fonti di informazioni sui droni :
 ---
 
 ## [Canale youtube: HeliPal](https://www.youtube.com/channel/UCGrIvupoLcFCW3CIKvfNfow)
@@ -38,10 +28,11 @@ chiedere a gente più esperta consigli e aiuti. Un ottimo modo per iniziare.
 ## Voto: 9
 ---
 
-## [ABCDRONI.it](http://www.abcdroni.it/droni-da-corsa)
+## RCgroups](https://www.rcgroups.com/fpv-racing-926/)
 
-Pagina Web che spiega,brevemente, il mondo dei droni da corsa,li descrive e alla fine  da dei consigli per imparare al meglio a pilotarli.
-## Voto: 6.5
+Forum Inglese-Americano specializzato solo sui droni,è molto simile a “baronerosso” ma,secondo
+me, ha qualcosa di più.
+## Voto: 9
 ---
 
 # I copiloti, invece, hanno trovato i seguenti software di configurazione dei droni:
