@@ -28,7 +28,7 @@ chiedere a gente più esperta consigli e aiuti. Un ottimo modo per iniziare.
 ## Voto: 9
 ---
 
-## RCgroups](https://www.rcgroups.com/fpv-racing-926/)
+## [RCgroups](https://www.rcgroups.com/fpv-racing-926/)
 
 Forum Inglese-Americano specializzato solo sui droni,è molto simile a “baronerosso” ma,secondo
 me, ha qualcosa di più.
@@ -41,7 +41,7 @@ me, ha qualcosa di più.
 ![blup](https://cloud.githubusercontent.com/assets/25582920/22690611/f99f771a-ed36-11e6-93f1-a988c5dda5e8.jpg)
 
 ####
-# **UGC**s,software di controllo multipiattaforma per droni
+# **UGC** s,software di controllo multipiattaforma per droni
 Ogni veicolo a pilotaggio remoto, ogni drone, ha il proprio software di controllo, l’obiettivo di  **SPH** Engineering è quello di rendere omogeneo il lavoro dei piloti, usando un unico software che possa essere utilizzato su diverse piattaforme **UAV.**
 
 ![hahahhahahahjajajajja](https://cloud.githubusercontent.com/assets/25582920/22690918/3a118b5c-ed38-11e6-8961-29055bf8bb54.jpg)
