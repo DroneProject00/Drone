@@ -13,20 +13,20 @@
 
 ## **Surfatori:** hanno stilato una lista relativa ai migliori siti e/o canali di Youtube:
 
-### - Helipal (https://www.youtube.com/channel/UCGrIvupoLcFCW3CIKvfNfow)
+### - [Helipal](https://www.youtube.com/channel/UCGrIvupoLcFCW3CIKvfNfow)
 
 #### Canale Youtube che tratta dell'argomento dei droni in generale. Uno dei più importanti in questo ambito, grazie al fatto che carica anche video di programmazione e perché è uno dei pochi canali Youtube che trattano solo quest'argomento.
 ### Voto: 8.5
 ---
 
-### - BaroneRosso.it(http://www.baronerosso.it/forum/multirotori-droni-principianti/)
+### - [BaroneRosso.it](http://www.baronerosso.it/forum/multirotori-droni-principianti/)
 
 #### Forum specializzato nel modellismo, ha anche una sezione dedicata al mondo dei droni. 
 #### Come in tutti i forum la gente pone domande e degli esperti che prontamente rispondono al fine di aiutare gente che ha preso un drone ma che ha qualche problema nel farlo funzionare. 
 ### Voto: 9
 ---
 
-### - RCgroups (https://www.rcgroups.com/fpv-racing-926/)
+### - [RCgroups](https://www.rcgroups.com/fpv-racing-926/)
 
 Forum inglese specializzato sui droni. Sembra quasi la versione in inglese di BaroneRosso.it, anche se sembrebbe avere qualche particolare in meno. 
 ### Voto: 9
