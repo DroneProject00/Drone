@@ -1,30 +1,25 @@
 # Drone
-#  **PROGETTO DRONE**
 
 ### Durante questa esperienza cercheremo di capire come è fatto un drone e come assemblarlo. Per fare ciò abbiamo creato 3 gruppi:  nel nostro gruppo siamo 13 ragazzi , 7 alunni della classe di automazione e 5 della classe di elettronica.
 
-### Questi siamo noi poco prima di iniziare il primo vero giorno di lavoro.
 
 ![foto da fabio spinelli](https://cloud.githubusercontent.com/assets/25582920/22729449/120326ba-ede3-11e6-807d-0c6e17827b5c.jpg)
+### Questi siamo noi poco prima di iniziare il primo vero giorno di lavoro.
 
+# **Principali lavori dei componenti del gruppo:**
 
-# **QUESTO E' TUTTO IL LAVORO EFFETTUATO DURANTE LA PRIMA PARTE DELLA PRIMA SETTIMANA**
+# **Surfatori:** hanno stilato una lista relativa ai migliori siti e/o canali di Youtube:
 
-# I surfatori hanno stilato questa lista delle migliori 3 fonti di informazioni sui droni :
----
+## Helipal (https://www.youtube.com/channel/UCGrIvupoLcFCW3CIKvfNfow)
 
-## [Canale youtube: HeliPal](https://www.youtube.com/channel/UCGrIvupoLcFCW3CIKvfNfow)
-
-Canale Youtube che tratta di droni in generale,è uno dei più importanti che ho trovato perchè
-ha anche caricato video che riguardano i software di programmazione per i droni..
+Canale Youtube che tratta dell'argomento dei droni in generale. Uno dei più importanti in questo ambito, grazie al fatto che carica anche video di programmazione e perché è uno dei pochi canali Youtube che trattano solo quest'argomento.
 ## Voto: 8.5
 ---
 
-## [BaroneRosso.it](http://www.baronerosso.it/forum/multirotori-droni-principianti/)
+## BaroneRosso.it(http://www.baronerosso.it/forum/multirotori-droni-principianti/)
 
-Forum che è specializzato nel modellismo,ha anche una sezione dedicata al mondo dei droni
-dove la gente fa domande e delle persone specializzate rispondono,è un ottimo modo per 
-chiedere a gente più esperta consigli e aiuti. Un ottimo modo per iniziare. 
+Forum specializzato nel modellismo,ha anche una sezione dedicata al mondo dei droni.
+Come in tutti i forum la gente pone domande e degli esperti che prontamente rispondono 
 ## Voto: 9
 ---
 
