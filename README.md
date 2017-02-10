@@ -56,4 +56,11 @@ Forum inglese specializzato sui droni. Sembra quasi la versione in inglese di Ba
 #### Sicuramente un dei maggiori pregi di UGC è la semplicità con cui si può applicare velocemente i propri cambiamenti, anche se in questo ultimo periodo stanno cercamdo un modo per poter programmare il volo del drone con un unico programma, riducendo il tempo impiegato e aumentando la facilità di modifica alle stringhe.
 #### D'altro canto ha un unico difetto, comune a tutti i droni da corsa: non si può elaborare con un solo programma tutta la programmazione del drone, ma necessita di alcuni programmi, diversi a seconda del tipo del drone.
 
+# SOURCE FILE DI CLEANFLIGHT 
+#### questi sono il file di sistema del nuovo programma 
+![cattura di schermata 7](https://cloud.githubusercontent.com/assets/25582920/22817379/33fe80b8-ef67-11e6-8fd5-e38700fc5fb4.png)
+
+#### in questi file è scritto l'intero funzionamento del drone. i file sono scritti in JavaScript, in html, scable vector,ruby.
+
+
 
