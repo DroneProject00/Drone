@@ -63,10 +63,12 @@ Forum inglese specializzato sui droni. Sembra quasi la versione in inglese di Ba
 ![cattura di schermata 7](https://cloud.githubusercontent.com/assets/25582920/22817379/33fe80b8-ef67-11e6-8fd5-e38700fc5fb4.png)
 
 #### Abbiamo dovuto utilizzare il software CleanFlight poiché UGC non può essere utilizzato con il nostro drone perché non è compatibile. Questo programma è abbastanza semplice, i file sono scritti in JavaScript, in html, scable vector,ruby.
+#### Di seguito si trovano alcuni link utili per la programmazione e per la scrittura di un programma per far volare un drone. Il drone da noi utilizzato è l'Eachine Race 250.
 
 http://www.baronerosso.it/forum/flight-controller-schede-di-volo-motori-e-regolatori/332346-cleanflight-speedyflight-aka-baseflight-multiwii.html
 
 #### Questo link porta ad una discussione su baronerosso.it in cui si discute e gli esperti cercano di spiegare in particolare la differenza dei vari Flight.
+
 
 
 http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/
@@ -74,9 +76,11 @@ http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/
 #### Tramite questo link si accede ad un sito che fornisce un introduzione base sul programma.
 
 
+
 https://github.com/cleanflight/cleanflight-configurator
 
 #### Link al codice sorgente del programma.
+
 
 
 https://github.com/cleanflight/cleanflight/blob/master/docs/Getting%20Started.md
@@ -84,9 +88,11 @@ https://github.com/cleanflight/cleanflight/blob/master/docs/Getting%20Started.md
 #### Spiegazione su come flashare il flight controller
 
 
+
 http://www.4-drone.net/community/threads/guida-in-italiano-alla-naze32-rev5.26/
 
 #### Spiegazione passo per passo di programmare un drone con il Software CleanFlight.
+
 
 
 https://github.com/cleanflight/cleanflight/blob/master/docs/Failsafe.md
@@ -94,9 +100,11 @@ https://github.com/cleanflight/cleanflight/blob/master/docs/Failsafe.md
 #### Link ad una fase failsafe per la programmazione.
 
 
+
 https://github.com/cleanflight/cleanflight/blob/master/docs/PID%20tuning.md
 
 #### Link ad una fase pid tunning per la programmazione.
+
 
 
 https://github.com/cleanflight/cleanflight/blob/master/docs/Modes.md
