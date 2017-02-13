@@ -57,28 +57,52 @@ Forum inglese specializzato sui droni. Sembra quasi la versione in inglese di Ba
 #### D'altro canto ha un unico difetto, comune a tutti i droni da corsa: non si può elaborare con un solo programma tutta la programmazione del drone, ma necessita di alcuni programmi, diversi a seconda del tipo del drone.
 
 
+
 # SOURCE FILE DI CLEANFLIGHT 
 #### questi sono il file di sistema del nuovo programma 
 ![cattura di schermata 7](https://cloud.githubusercontent.com/assets/25582920/22817379/33fe80b8-ef67-11e6-8fd5-e38700fc5fb4.png)
 
-####Questo programma è molto semplice per moificare e creare strinhe. Con [ CleanFlighrt ](http://www.baronerosso.it/forum/flight-controller-schede-di-volo-motori-e-regolatori/332346-cleanflight-speedyflight-aka-baseflight-multiwii.html)i file sono scritti in JavaScript, in html, scable vector,ruy.
+#### Abbiamo dovuto utilizzare il software CleanFlight poiché UGC non può essere utilizzato con il nostro drone perché non è compatibile. Questo programma è abbastanza semplice, i file sono scritti in JavaScript, in html, scable vector,ruby.
 
-#### [link a una discussion su baroneRosso.it in cui si parla delle varie tipologiue e atgorie di droni](http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/)
+http://www.baronerosso.it/forum/flight-controller-schede-di-volo-motori-e-regolatori/332346-cleanflight-speedyflight-aka-baseflight-multiwii.html
 
-#### [ Spiegazione su come flashare il flight controller](https://github.com/cleanflight/cleanflight/blob/master/docs/Getting%20Started.md)
-
-
-#### [Spiegazione passo per passo come programmare cleanflight sul drone](http://www.4-drone.net/community/threads/guida-in-italiano-alla-naze32-rev5.26/)
+#### Questo link porta ad una discussione su baronerosso.it in cui si discute e gli esperti cercano di spiegare in particolare la differenza dei vari Flight.
 
 
-#### [Fase failsafe per la programmazione](https://github.com/cleanflight/cleanflight/blob/master/docs/Failsafe.md)
+http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/
+
+#### Tramite questo link si accede ad un sito che fornisce un introduzione base sul programma.
 
 
-#### [ase pid tunning](https://github.com/cleanflight/cleanflight/blob/master/docs/PID%20tuning.md)
+https://github.com/cleanflight/cleanflight-configurator
+
+#### Link al codice sorgente del programma.
 
 
-#### [Link ad una cheda "Modes"](https://github.com/cleanflight/cleanflight/blob/master/docs/Modes.md)
- 
+https://github.com/cleanflight/cleanflight/blob/master/docs/Getting%20Started.md
+
+#### Spiegazione su come flashare il flight controller
+
+
+http://www.4-drone.net/community/threads/guida-in-italiano-alla-naze32-rev5.26/
+
+#### Spiegazione passo per passo di programmare un drone con il Software CleanFlight.
+
+
+https://github.com/cleanflight/cleanflight/blob/master/docs/Failsafe.md
+
+#### Link ad una fase failsafe per la programmazione.
+
+
+https://github.com/cleanflight/cleanflight/blob/master/docs/PID%20tuning.md
+
+#### Link ad una fase pid tunning per la programmazione.
+
+
+https://github.com/cleanflight/cleanflight/blob/master/docs/Modes.md
+
+#### Scheda "Modes" per la programmazione
+
 
 
 
