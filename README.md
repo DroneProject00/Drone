@@ -70,9 +70,9 @@ Forum inglese specializzato sui droni. Sembra quasi la versione in inglese di Ba
 
 
 
- http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/
+![screenshot 3](https://cloud.githubusercontent.com/assets/25582271/22919600/085fb378-f291-11e6-8818-a753af58fbd5.png)
 
-#### Tramite questo link si accede ad un sito che fornisce un introduzione base sul programma.
+#### Tramite questo link si accede ad un sito, [thrustworx.com](http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/), che fornisce un introduzione base sul programma.
 
 
 
