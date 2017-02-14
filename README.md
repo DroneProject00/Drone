@@ -63,15 +63,14 @@ Forum inglese specializzato sui droni. Sembra quasi la versione in inglese di Ba
 ![cattura di schermata 7](https://cloud.githubusercontent.com/assets/25582920/22817379/33fe80b8-ef67-11e6-8fd5-e38700fc5fb4.png)
 
 #### Abbiamo dovuto utilizzare il software CleanFlight poiché UGC non può essere utilizzato con il nostro drone perché non è compatibile. Questo programma è abbastanza semplice, i file sono scritti in JavaScript, in html, scable vector,ruby.
-#### Di seguito si trovano alcuni link utili per la programmazione e per la scrittura di un programma per far volare un drone. Il drone da noi utilizzato è l'Eachine Race 250.
 
-http://www.baronerosso.it/forum/flight-controller-schede-di-volo-motori-e-regolatori/332346-cleanflight-speedyflight-aka-baseflight-multiwii.html
+![screenshot 2](https://cloud.githubusercontent.com/assets/25582271/22919278/3a638720-f28f-11e6-8ca4-761e0b492d1c.png)
 
-#### Questo link porta ad una discussione su baronerosso.it in cui si discute e gli esperti cercano di spiegare in particolare la differenza dei vari Flight.
-
+#### Questo è uno screenshot di una discussione su [baronerosso.it``](http://www.baronerosso.it/forum/flight-controller-schede-di-volo-motori-e-regolatori/332346-cleanflight-speedyflight-aka-baseflight-multiwii.html)  in cui si discute e gli esperti cercano di spiegare in particolare la differenza dei vari Flight.
 
 
-http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/
+
+ http://thrustworx.com/how-to-install-cleanflight-cc3d-guide/
 
 #### Tramite questo link si accede ad un sito che fornisce un introduzione base sul programma.
 
